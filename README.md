@@ -67,9 +67,13 @@ The module returns the following parameters:
 * Integral price
 ...
 
-## Cloning this Repository
+## How to use
 
-Run ```go get -u github.com/ixofoundation/cosmic```
+Run ```pythonw ask.pyc```
+```
+🛑 Enter username phone number:
+```
+Enter the client ID then press enter
 
 ## Running the App
 
